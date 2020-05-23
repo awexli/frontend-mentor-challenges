@@ -10,6 +10,8 @@
   * SCSS, Flexbox, Vue Expressions & Attribute Binding
 * [Insure Landing Page](#insure-landing-page)
   * SCSS, Flexbox, Vue Components/Props/List Rendering
+* [Easybank Landing Page](#easybank-landing-page)
+  * SCSS, Flexbox, Vue
 
 ## Base Apparel Coming Soon Page
 ### [Source Code](https://github.com/awexli/base-apparel-landing-page) | [Live Demo](https://awexli.github.io/base-apparel-landing-page/)  
