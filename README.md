@@ -11,7 +11,9 @@
 * [Insure Landing Page](#insure-landing-page)
   * SCSS, Flexbox, Vue Components/Props/List Rendering
 * [Easybank Landing Page](#easybank-landing-page)
-  * SCSS, Flexbox, Vue
+  * Vue.js, SCSS, Flexbox,
+* [Shortly Landing Page](#shortly-landing-page)
+  * Vue.js, Bulma, axios, SCSS
 
 ## Base Apparel Coming Soon Page
 ### [Source Code](https://github.com/awexli/base-apparel-landing-page) | [Live Demo](https://awexli.github.io/base-apparel-landing-page/)  
@@ -35,3 +37,15 @@
 05/11/2020
 
 ![Design preview - Insure Landing Page](https://raw.githubusercontent.com/awexli/insure-landing-page/master/src/design/desktop-preview.jpg)
+
+## Easybank Landing Page
+### [Source Code](https://github.com/awexli/easybank-landing) | [Live Demo](https://easybank-landing.awexli.now.sh/)
+05/11/2020
+
+![Design preview - Easybank Landing Page](https://raw.githubusercontent.com/awexli/easybank-landing/master/src/assets/_design/desktop-preview.jpg)
+
+## Shortly Landing Page
+### [Source Code](https://github.com/awexli/url-shortener) | [Live Demo](https://shortly-url-shortener.awexli.vercel.app/)
+05/11/2020
+
+![Design preview - Shortly Landing Page](https://raw.githubusercontent.com/awexli/url-shortener/master/src/assets/design/desktop-preview.jpg)
