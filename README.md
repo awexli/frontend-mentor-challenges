@@ -18,6 +18,7 @@
 ## Base Apparel Coming Soon Page
 ### [Source Code](https://github.com/awexli/base-apparel-landing-page) | [Live Demo](https://awexli.github.io/base-apparel-landing-page/)  
  April 29, 2020
+ 
 ![Design preview - Base Apparel](https://raw.githubusercontent.com/awexli/base-apparel-landing-page/master/design/desktop-preview.jpg)
 
 ## Social Media Dashboard
