@@ -14,6 +14,8 @@
   * Vue.js, SCSS, Flexbox,
 * [Shortly Landing Page](#shortly-landing-page) [Sep 15, 2020]
   * Vue.js, Bulma, axios, SCSS
+* [Faq Accordion](#faq-accordion) [Jan 3, 2021]
+  * React, styled components
 
 ## Base Apparel Coming Soon Page
 ### [Source Code](https://github.com/awexli/base-apparel-landing-page) | [Live Demo](https://awexli.github.io/base-apparel-landing-page/)  
@@ -44,3 +46,9 @@
 ### [Source Code](https://github.com/awexli/url-shortener) | [Live Demo](https://shortly-url-shortener.awexli.vercel.app/)
 
 ![Design preview - Shortly Landing Page](https://raw.githubusercontent.com/awexli/url-shortener/master/src/assets/design/desktop-preview.jpg)
+
+## Faq Accordion
+### [Source Code](https://github.com/awexli/faq-accordion) | [Live Demo](https://faq-accordion-mu.vercel.app/)
+
+![Design preview - Faq Accordion](https://raw.githubusercontent.com/awexli/faq-accordion/master/src/design/desktop-preview.jpg?token=AGDW7DS5DL3EEGB4EF36RBC77LJ64)
+
